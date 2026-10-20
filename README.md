@@ -2,7 +2,7 @@
 
 **Aluna:** Stephanny Figueiredo  
 **Unidade Curricular:** Lógica de Programação
-**Turma: QUA02492026O085 
+**Turma:** QUA02492026O085 
 **Docente:** Nivaldo Batista de Araújo
 
 ---

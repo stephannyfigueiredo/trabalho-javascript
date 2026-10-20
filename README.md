@@ -1,15 +1,15 @@
 # 🚀 Atividade Prática de JavaScript — SENAI
 
 **Aluna:** Stephanny Figueiredo  
-**Unidade Curricular:** Lógica de Programação
-**Turma:** QUA02492026O085 
-**Docente:** Nivaldo Batista de Araújo
+**Unidade Curricular:** Lógica de Programação  
+**Turma:** QUA02492026O085  
+**Docente:** Nivaldo Batista de Araújo  
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este repositório contém as soluções desenvolvidas para a atividade prática individual da unidade curricular de **Programação JavaScript** do SENAI. O objetivo principal da atividade é aplicar os conceitos fundamentais de lógica de programação utilizando JavaScript, como manipulação de variáveis, operadores aritméticos, entrada e saída de dados, e versionamento de código com **Git e GitHub**.
+Este repositório contém as soluções desenvolvidas para a atividade prática individual da unidade curricular de **Lógica de Programação** do SENAI. O objetivo principal da atividade é aplicar os conceitos fundamentais de lógica de programação utilizando JavaScript, como manipulação de variáveis, operadores aritméticos, entrada e saída de dados, e versionamento de código com **Git e GitHub**.
 
 ---
 
@@ -46,18 +46,16 @@ Ter o [Node.js](https://nodejs.org/) instalado no computador ou utilizar um nave
 ### Passo a passo
 1. Clone este repositório para a sua máquina local:
    ```bash
-    git clone [https://github.com/SEU-USUARIO/trabalho-javascript.git](https://github.com/SEU-USUARIO/trabalho-javascript.git)
-
-2. Navega até à pasta do projeto:
-  ```bash
-    cd trabalho-javascript
-
+   git clone https://github.com/SEU-USUARIO/trabalho-javascript.git
+2. Navegue até à pasta do projeto:
+   ```bash
+   cd trabalho-javascript
 3. Para executar os ficheiros diretamente no terminal através do Node.js:
-  node exercicio1.js
-  node exercicio2.js
-  node exercicio3.js
----
+   ```bash
+   node exercicio1.js
+   node exercicio2.js
+   node exercicio3.js
+
 (Nota: Para os exercícios que utilizam a função prompt(), também podes testar colando o código diretamente no Console do Desenvolvedor do navegador pressionando F12).
 
----
 ✨ Desenvolvido por Stephanny Figueiredo durante as aulas de Programação Front-End no SENAI Maracanã.

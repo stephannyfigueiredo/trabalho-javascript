@@ -56,7 +56,8 @@ Ter o [Node.js](https://nodejs.org/) instalado no computador ou utilizar um nave
   node exercicio1.js
   node exercicio2.js
   node exercicio3.js
+---
+(Nota: Para os exercícios que utilizam a função prompt(), também podes testar colando o código diretamente no Console do Desenvolvedor do navegador pressionando F12).
 
-### (Nota: Para os exercícios que utilizam a função prompt(), também podes testar colando o código diretamente no Console do Desenvolvedor do navegador pressionando F12).
-
-###✨ Desenvolvido por Stephanny Figueiredo durante as aulas de Programação Front-End no SENAI Maracanã.
+---
+✨ Desenvolvido por Stephanny Figueiredo durante as aulas de Programação Front-End no SENAI Maracanã.
